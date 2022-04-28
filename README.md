@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @rjbpoddar
+- 👀 I’m interested in Development ...
+- 🌱 I’m currently learning java with DSA...
+- 💞️ I’m looking to collaborate with FAANG India...
+- 📫 How to reach me ...
+- 9903517877
+- email: rjbpoddar@gmail.com
+- 
+
+<!---
+rjbpoddar/rjbpoddar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
