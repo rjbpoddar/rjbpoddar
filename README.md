@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1S5uE2_xbr_jgjN4xdkIXZIiXlagppnzS/view?usp=sharing)]
+![MasterHead](https://github.com/rjbpoddar/rjbpoddar/blob/master/Gray%20Blue%20Simple%20Business%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rajib Poddar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align = "right" alt ="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" autoplay="True" >
